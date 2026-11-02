@@ -1,4 +1,3 @@
-// 25/16506 Adebayo Aliyah Adewunmi software enginering
 
 import java.util.Scanner;
 
